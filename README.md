@@ -1,4 +1,3 @@
-# Barbar-Shop-Problem
 ### The Barber Shop Problem
 
 The Barber Shop Problem is a classic synchronization problem in computer science, particularly in the study of operating systems and concurrent programming. It was originally formulated by Edsger Dijkstra and serves as an excellent example for understanding semaphores, mutexes, and other synchronization mechanisms.
